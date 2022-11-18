@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saisudakar123 
 - 👀 I’m interested in learning new software technologies
-- 🌱 I’m currently learning microsoft azzore
+- 🌱 I’m currently learning microsoft azure
 - 💞️ I’m looking to collaborate with software companies
 - 📫 How to reach me pulaparthisaisudhakar@gmail.com
 
